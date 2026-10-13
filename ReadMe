@@ -1,0 +1,91 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Privacy Policy - Duplicate</title>
+  <meta name="description" content="Privacy Policy for the Duplicate app by Wander Heuvelman.">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 20px;
+      line-height: 1.7;
+      color: #222;
+    }
+    h1, h2 { line-height: 1.3; }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy for Duplicate</h1>
+  <p><strong>Developer:</strong> Wander Heuvelman</p>
+  <p><strong>Effective date:</strong> 13-10-2026</p>
+
+  <h2>1. Introduction</h2>
+  <p>
+    This Privacy Policy explains how the Duplicate app, developed by
+    Wander Heuvelman, handles information relating to its users.
+  </p>
+
+  <h2>2. Data Collection</h2>
+  <p>
+    Duplicate is designed not to collect, store, or transmit personal
+    information from its users. The app does not require users to
+    create an account or provide personal information to use its
+    core functionality.
+  </p>
+
+  <h2>3. Analytics and Advertising</h2>
+  <p>
+    The developer does not intentionally use the app to collect
+    personal information for analytics or advertising.
+  </p>
+  <p>
+    Autodesk services or software development kits are included
+    in the app, their data practices must be reviewed separately.
+  </p>
+
+  <h2>4. Data Storage and Sharing</h2>
+  <p>
+    The developer does not intentionally collect or share users'
+    personal information through Duplicate. Information that users
+    create or access locally on their own devices may remain on
+    those devices, depending on how the app operates and the
+    device's settings.
+  </p>
+
+  <h2>5. Children's Privacy</h2>
+  <p>
+    Duplicate is not intended to collect personal information from
+    children. The app does not intentionally request personal
+    information from its users.
+  </p>
+
+  <h2>6. Third-Party Platforms and Hosting</h2>
+  <p>
+    App stores, operating system providers, and any services used
+    to distribute or host this policy may process technical
+    information under their own privacy policies. For example,
+    the website hosting provider may process server logs, including
+    IP addresses, for security purposes.
+  </p>
+
+  <h2>7. Changes to This Policy</h2>
+  <p>
+    This Privacy Policy may be updated if the app's functionality
+    or data practices change. The latest version will be published
+    at the policy URL associated with the app.
+  </p>
+
+  <h2>8. Contact</h2>
+  <p>
+    For questions about this Privacy Policy, contact the developer:
+    Wander Heuvelman.
+  </p>
+  <p>
+    Contact email: whappsupport@proton.me
+  </p>
+</body>
+</html>
